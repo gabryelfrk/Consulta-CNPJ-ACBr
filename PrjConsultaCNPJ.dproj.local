@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/03/20 09:45:52.000.513,=C:\Users\GABRYEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/20 09:46:38.000.204,C:\Users\GABRYEL\Desktop\ConsultaCNPJ\UConsultaCNPJ.dfm=C:\Users\GABRYEL\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/03/20 09:46:38.000.204,C:\Users\GABRYEL\Desktop\ConsultaCNPJ\UConsultaCNPJ.pas=C:\Users\GABRYEL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/20 09:46:48.000.650,C:\Users\GABRYEL\Desktop\ConsultaCNPJ\PrjConsultaCNPJ.dproj=C:\Users\GABRYEL\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/03/20 09:46:58.000.003,C:\Users\GABRYEL\Desktop\ConsultaCNPJ\UConsultaCNPJ.pas=</Transaction>
+    <Transaction>2023/03/20 09:48:31.000.745,=C:\Users\GABRYEL\Desktop\ConsultaCNPJ\uNewConsultaCNPJ.pas</Transaction>
+  </Transactions>
+</BorlandProject>
